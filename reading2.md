@@ -1,4 +1,4 @@
-# Ops-201-Readings
+
 ## reading2
 ### Why is it important?
 it stands for "Bourne-Again Shell," is a command-line shell and scripting language for Unix-based operating systems, including Linux and macOS.
