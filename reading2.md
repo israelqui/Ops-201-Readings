@@ -7,7 +7,7 @@ it stands for "Bourne-Again Shell," is a command-line shell and scripting langua
 2. How does Bash locate and execute commands on a Linux or Unix system?
 - most common used shell.  
 3. How can you determine if your system is running a Bash shell?
-- shell name, shell version, user's deafult shell
+- shell name, shell version, user's default shell
 4. What makes Bash scripting powerful and why is it considered scriptable?
 - widely used for scripts, process, perform, and more.
 5. Bash scripting allows for customization, automation, and efficiency. Discuss methods or practices from your previous work experience or cultural background that aim to achieve similar goals in daily tasks.

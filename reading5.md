@@ -18,6 +18,6 @@ sfc is in case the system has malware and gpupdate forces updates in order to ke
 ## Analogy 
 - Command prompt is the terminal that windows OS uses. This article explains the most popular windows command tools to copy multiple files, change directories, navigate through them, etc. 
 ## Things I want to know more about.
-- Is the windows command promt the most used in the industry? 
+- Is the windows command prompt the most used in the industry? 
 ### sources
 - https://theorangeone.net/posts/vscode-grammar-checks/
