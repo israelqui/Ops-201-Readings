@@ -3,18 +3,18 @@
 ## Why is it important? 
 - It is important because it serves as a central database that stores essential configuration settings and options for the windows operating system and installed applications.
 
-1. What is the Windows Registry, and what does it store?
+## 1. What is the Windows Registry, and what does it store?
 - The Windows Registry is a database where Windows and many programs store their configuration settings. You can edit the registry yourself to enable hidden features and tweak specific options. These tweaks are often called "registry hacks."
 
-2. What are the two types of registry settings stored for each Windows user account?
+## 2. What are the two types of registry settings stored for each Windows user account?
 - The Windows registry is a collection of several databases. There are system-wide registry settings that apply to all users, and each Windows user account also has its own user-specific settings.
 - On Windows 10 and Windows 7, the system-wide registry settings are stored in files under: " C:\Windows\System32\Config\ "
 - Each Windows user account has its own NTUSER.dat file containing its user-specific keys in its: " C:\Windows\Users\Name "
 
-3. What are “registry hacks” and why might someone want to use them?
+## 3. What are “registry hacks” and why might someone want to use them?
 - You can edit the registry yourself to enable hidden features and tweak specific options. These tweaks are often called "registry hacks."
 
-4. What are some common tasks you can perform by editing the Windows Registry?
+## 4. What are some common tasks you can perform by editing the Windows Registry?
 1. Changing system settings:
 
 - Customizing the desktop background and screensaver.
@@ -53,7 +53,7 @@
 
 - Customizing various aspects of the Windows interface and behavior to suit your preferences.
 
-5. Imagine you’re explaining the concept of the Windows Registry to someone who has never used a computer before. How would you make this explanation culturally relevant and relatable to their life experiences or background?
+## 5. Imagine you’re explaining the concept of the Windows Registry to someone who has never used a computer before. How would you make this explanation culturally relevant and relatable to their life experiences or background?
 - The Windows Registry is like a magical recipe book for your computer, filled with instructions and settings that determine how your computer behaves. Just as a recipe book has recipes for different dishes, the Registry has "recipes" for various computer functions, like the appearance of your desktop, internet connections, and program management. You can customize your computer by adding or tweaking these "recipes," but like cooking, it's essential to handle the Registry with care, make backups, and avoid adding the wrong "ingredients" to prevent computer issues.
 
 ## Analogy
