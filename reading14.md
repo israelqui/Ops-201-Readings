@@ -1,6 +1,6 @@
 # Reading 14
 
-## Why s it important?
+## Why is it s it important?
 
 It's important because it highlights the diversity in approaches to cybersecurity and the values and priorities of technology users. Understanding these differences can help individuals make informed choices about the security of their devices and systems. It also sheds light on the broader cultural and technical aspects of computing, making it relevant for those interested in technology, cybersecurity, and the social implications of various operating systems.
 
